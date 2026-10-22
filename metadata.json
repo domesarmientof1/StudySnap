@@ -1,0 +1,6 @@
+{
+  "name": "StudySnap",
+  "description": "Snap photos of your study notes to get instant AI summaries and interactive study questions in English or Spanish.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
